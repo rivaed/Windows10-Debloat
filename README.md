@@ -1,4 +1,4 @@
-```markdown
+
 # Windows 10 Debloat Script
 
 ## Descrição
