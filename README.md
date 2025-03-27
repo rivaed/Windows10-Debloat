@@ -49,4 +49,4 @@ Contribuições são bem-vindas! Se você deseja sugerir melhorias ou adicionar 
 ## Licença
 
 Este projeto está licenciado sob a **MIT License** – sinta-se livre para modificar e compartilhar.
-```
+
